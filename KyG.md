@@ -1,7 +1,7 @@
 # Project Title : mastermind 
 ### Batch NO : 06
 ### Mentor Name :ms. priscilla joy 
-### Github Link : 
+### Github Link : https://github.com/harikiruthi/mastermind-/tree/master
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
